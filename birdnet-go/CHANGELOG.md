@@ -1,3 +1,14 @@
+## 25-4 (29-12-2024)
+- Fixed https://github.com/alexbelgium/hassio-addons/issues/1687
+
+## 25-3 (28-12-2024)
+- avx2 support added by @tphakala
+
+## 25-2 (21-12-2024)
+- Minor bugs fixed
+
+## 25 (21-12-2024)
+- Update to latest version from tphakala/birdnet-go (changelog : https://github.com/tphakala/birdnet-go/releases)
 ## 0.5.5-11 (22-10-2024)
 - Minor bugs fixed
 ## 0.5.5-10 (30-09-2024)

@@ -1,3 +1,4 @@
+## &#9888; Open Issue : [🐛 [Transmission] Disk is mounted, however unable to write in the shared disk (opened 2024-12-16)](https://github.com/alexbelgium/hassio-addons/issues/1673) by [@redb0](https://github.com/redb0)
 
 # Home assistant add-on: Transmission
 

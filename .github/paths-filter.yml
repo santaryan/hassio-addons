@@ -34,6 +34,7 @@ flexget: flexget/config.* # Image : yes
 free_games_claimer: free_games_claimer/config.* # Image : yes
 gazpar2mqtt: gazpar2mqtt/config.* # Image : yes
 gitea: gitea/config.* # Image : yes
+grampsweb: grampsweb/config.* # Image : yes
 grav: grav/config.* # Image : yes
 guacamole: guacamole/config.* # Image : yes
 immich: immich/config.* # Image : yes
@@ -55,6 +56,7 @@ myelectricaldata: myelectricaldata/config.* # Image : yes
 myelectricaldata_dev: myelectricaldata_dev/config.* # Image : yes
 mylar3: mylar3/config.* # Image : yes
 navidrome: navidrome/config.* # Image : yes
+netalertx: netalertx/config.* # Image : yes
 nextcloud: nextcloud/config.* # Image : yes
 nzbget: nzbget/config.* # Image : yes
 omada: omada/config.* # Image : yes
